@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "lNfxJnjduEY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\Smokeautomation_Test\\Smokeautomation_Test\\Smokeautomation_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\chromium.chromedriver\\2.37.0\\chromium.chromedriver.2.37.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.1\\microsoft.net.test.sdk.17.14.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.7.3\\microsoft.testing.extensions.telemetry.1.7.3.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.7.3\\microsoft.testing.extensions.trxreport.abstractions.1.7.3.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.7.3\\microsoft.testing.extensions.vstestbridge.1.7.3.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.testing.platform\\1.7.3\\microsoft.testing.platform.1.7.3.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.7.3\\microsoft.testing.platform.msbuild.1.7.3.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.testplatform.adapterutilities\\17.13.0\\microsoft.testplatform.adapterutilities.17.13.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.14.1\\microsoft.testplatform.objectmodel.17.14.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.testplatform.testhost\\17.14.1\\microsoft.testplatform.testhost.17.14.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\mstest.analyzers\\3.9.3\\mstest.analyzers.3.9.3.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\mstest.testadapter\\3.9.3\\mstest.testadapter.3.9.3.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\mstest.testframework\\3.9.3\\mstest.testframework.3.9.3.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\nunit3testadapter\\5.1.0-alpha.3\\nunit3testadapter.5.1.0-alpha.3.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\selenium.support\\4.33.0\\selenium.support.4.33.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\selenium.webdriver\\4.33.0\\selenium.webdriver.4.33.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

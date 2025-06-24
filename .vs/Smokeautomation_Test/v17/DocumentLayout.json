@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\Smokeautomation_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4048B924-F74E-470F-A8E3-588A7BC54B1C}|Smokeautomation_Test\\Smokeautomation_Test.csproj|c:\\users\\hp\\source\\repos\\smokeautomation_test\\smokeautomation_test\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4048B924-F74E-470F-A8E3-588A7BC54B1C}|Smokeautomation_Test\\Smokeautomation_Test.csproj|solutionrelative:smokeautomation_test\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4048B924-F74E-470F-A8E3-588A7BC54B1C}|Smokeautomation_Test\\Smokeautomation_Test.csproj|c:\\users\\hp\\source\\repos\\smokeautomation_test\\smokeautomation_test\\seleniumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4048B924-F74E-470F-A8E3-588A7BC54B1C}|Smokeautomation_Test\\Smokeautomation_Test.csproj|solutionrelative:smokeautomation_test\\seleniumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4048B924-F74E-470F-A8E3-588A7BC54B1C}|Smokeautomation_Test\\Smokeautomation_Test.csproj|c:\\users\\hp\\source\\repos\\smokeautomation_test\\smokeautomation_test\\logouthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4048B924-F74E-470F-A8E3-588A7BC54B1C}|Smokeautomation_Test\\Smokeautomation_Test.csproj|solutionrelative:smokeautomation_test\\logouthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4048B924-F74E-470F-A8E3-588A7BC54B1C}|Smokeautomation_Test\\Smokeautomation_Test.csproj|c:\\users\\hp\\source\\repos\\smokeautomation_test\\smokeautomation_test\\orangehrmlogintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4048B924-F74E-470F-A8E3-588A7BC54B1C}|Smokeautomation_Test\\Smokeautomation_Test.csproj|solutionrelative:smokeautomation_test\\orangehrmlogintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4048B924-F74E-470F-A8E3-588A7BC54B1C}|Smokeautomation_Test\\Smokeautomation_Test.csproj|c:\\users\\hp\\source\\repos\\smokeautomation_test\\smokeautomation_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4048B924-F74E-470F-A8E3-588A7BC54B1C}|Smokeautomation_Test\\Smokeautomation_Test.csproj|solutionrelative:smokeautomation_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Smokeautomation_Test\\Smokeautomation_Test\\Driver.cs",
+              "RelativeDocumentMoniker": "Smokeautomation_Test\\Driver.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Smokeautomation_Test\\Smokeautomation_Test\\Driver.cs",
+              "RelativeToolTip": "Smokeautomation_Test\\Driver.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:30:10.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "seleniumHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Smokeautomation_Test\\Smokeautomation_Test\\seleniumHelper.cs",
+              "RelativeDocumentMoniker": "Smokeautomation_Test\\seleniumHelper.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Smokeautomation_Test\\Smokeautomation_Test\\seleniumHelper.cs",
+              "RelativeToolTip": "Smokeautomation_Test\\seleniumHelper.cs",
+              "ViewState": "AgIAAI4BAAAAAAAAAAAUwKkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:28:57.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogoutHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Smokeautomation_Test\\Smokeautomation_Test\\LogoutHelper.cs",
+              "RelativeDocumentMoniker": "Smokeautomation_Test\\LogoutHelper.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Smokeautomation_Test\\Smokeautomation_Test\\LogoutHelper.cs",
+              "RelativeToolTip": "Smokeautomation_Test\\LogoutHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:28:00.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrangeHRMLoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Smokeautomation_Test\\Smokeautomation_Test\\OrangeHRMLoginTest.cs",
+              "RelativeDocumentMoniker": "Smokeautomation_Test\\OrangeHRMLoginTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Smokeautomation_Test\\Smokeautomation_Test\\OrangeHRMLoginTest.cs",
+              "RelativeToolTip": "Smokeautomation_Test\\OrangeHRMLoginTest.cs",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAiwIgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:25:46.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Smokeautomation_Test\\Smokeautomation_Test\\Program.cs",
+              "RelativeDocumentMoniker": "Smokeautomation_Test\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Smokeautomation_Test\\Smokeautomation_Test\\Program.cs",
+              "RelativeToolTip": "Smokeautomation_Test\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:46:19.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
